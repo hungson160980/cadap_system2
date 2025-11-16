@@ -1,0 +1,9 @@
+# Minimal requirements - Cài đặt nhanh
+streamlit
+python-docx
+openpyxl
+pandas
+matplotlib
+google-generativeai
+reportlab
+Pillow
